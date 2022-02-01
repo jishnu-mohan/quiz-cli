@@ -1,2 +1,12 @@
 # quiz-cli
-A simple cli quiz app using open trivia database api
+A simple quiz app which can be played from the cli.
+Uses [opendb](https://opentdb.com/) api to fetch questions.
+## How to use?
+### Install the package
+```
+$ npm i quiz-cli
+```
+### Play
+```
+$ quiz-cli
+```
