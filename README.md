@@ -4,7 +4,7 @@ Uses [opendb](https://opentdb.com/) api to fetch questions.
 ## How to use?
 ### Install the package
 ```
-$ npm i quiz-cli
+$ npm i @jishnu-mpr/quiz-cli
 ```
 ### Play
 ```
