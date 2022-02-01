@@ -8,5 +8,5 @@ $ npm i @jishnu-mpr/quiz-cli
 ```
 ### Play
 ```
-$ quiz-cli
+$ npx quiz-cli
 ```
