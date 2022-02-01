@@ -1,5 +1,5 @@
 {
-  "name": "quiz-cli",
+  "name": "@jishnu-mpr/quiz-cli",
   "version": "1.0.0",
   "description": "A simple quiz app which can be played from the cli",
   "main": "index.js",
@@ -12,7 +12,8 @@
     "url": "git+https://github.com/jishnu-mohan/quiz-cli.git"
   },
   "keywords": [
-    "quiz-cli"
+    "quiz-cli",
+    "jishnu-mpr"
   ],
   "author": "Jishnu Mohan",
   "license": "ISC",
